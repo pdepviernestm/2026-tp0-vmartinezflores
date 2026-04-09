@@ -19,10 +19,10 @@ _ _ _
 
 ### Imagen de mi
 
-![alt text](<WhatsApp Image 2026-04-08 at 21.52.43.jpeg>)
+![Image](https://github.com/user-attachments/assets/8e7146a5-3e07-4d61-b117-e4eabc005bb5)
 
 _ _ _
 
 ### Imagen de Michu
 
-![alt text](image.png)
+![Image](https://github.com/user-attachments/assets/cd0c2a69-dac9-4b12-805f-f3f4c38d0f0d)
