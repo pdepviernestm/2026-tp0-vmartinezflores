@@ -25,4 +25,8 @@ _ _ _
 
 ### Imagen de Michu
 
+<<<<<<< HEAD
 ![Image](https://github.com/user-attachments/assets/cd0c2a69-dac9-4b12-805f-f3f4c38d0f0d)
+=======
+![Image](https://github.com/user-attachments/assets/cd0c2a69-dac9-4b12-805f-f3f4c38d0f0d)
+>>>>>>> f1d07983f94a7c65bad776183bcba5d1ba39336b
